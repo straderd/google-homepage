@@ -1,0 +1,38 @@
+*{
+	font-family: Arial;
+}
+header{
+	text-align: right;
+	line-height: 24px;
+	color:gray;
+	font-size: 14px;
+}
+header a{
+	color:black; 	
+}
+footer a{
+	color:black; 	
+}
+#center{
+position: relative; 
+top: 200px;
+font-size:14px;
+text-decoration: none;
+}
+
+ #text{
+	width: 430px;
+}
+footer{
+	position: relative;
+	top: 374px;
+	line-height: 24px;
+	color:gray;
+	font-size: 14px;	
+}
+.footleft{
+	float: left;
+}
+.footright{
+	float: right;
+}
